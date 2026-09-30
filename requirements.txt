@@ -1,0 +1,4 @@
+# Versão CPU do torch:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0
+numpy>=1.24
